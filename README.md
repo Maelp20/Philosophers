@@ -1,5 +1,5 @@
 # Philosophers
-42 Project Philosophers
+42 Paris School Project Philosophers
 
 # Subject 
 Simulation de salle à manger des philosophes :
@@ -24,10 +24,17 @@ Usage is ```./philo <arg1> <arg2> <arg3> <arg4> [arg5]```
 ## Case examples
 
 ```./philo 2 800 200 200``` no one dies
+
 ```./philo 5 800 200 200``` no one dies
+
 ```./philo 5 0 200 200```   a philo dies at 0ms
+
 ```./philo 4 410 200 200``` no one dies
+
 ```./philo 2 600 200 800``` a philo dies at 600ms
+
 ```./philo 8 800 400 400``` a philo dies at 800ms
+
 ```./philo 8 820 400 400``` no one dies
+
 ```./philo 50 800 200 200``` no one dies
