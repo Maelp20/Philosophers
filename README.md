@@ -2,14 +2,13 @@
 42 Paris School Project Philosophers
 
 # Subject 
-Simulation de salle à manger des philosophes :
+Dining Philosophers Simulation:
 
-- Création d'un programme pour modéliser le comportement de philosophes autour d'une table partageant des fourchettes.
-    
-- Chaque philosophe est un thread et peut mourir de faim.
-    
-- Objectif : éviter la famine, avoir une bonne synchronisation sans data
-    race entre les threads, et créer des logs pour chaque action.
+- Development of a program to model the behavior of philosophers sitting around a table, sharing forks.
+
+- Each philosopher is a thread and can starve to death.
+
+- Objective: Prevent starvation, achieve proper synchronization without data races between the threads, and generate logs for each action.
 
 # RUN / USAGE
 at dir root, run ```make```
