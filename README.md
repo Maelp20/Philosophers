@@ -11,12 +11,12 @@ Simulation de salle à manger des philosophes :
 # RUN / USAGE
 at dir root, run ```make```
 
-Usage is ```./philo <arg1> <arg2> <arg3> <arg4> [arg5]
-        - arg1 = number_of_philosophers
-        - arg2 = time_to_die
-        - arg3 = time_to_eat
-        - arg4 = time_to_sleep
-        - arg5 = (optional) number_of_times_each_philosopher_must_eat``` (times in ms)
+Usage is ```./philo <arg1> <arg2> <arg3> <arg4> [arg5]```
+    - arg1 = number_of_philosophers
+    - arg2 = time_to_die
+    - arg3 = time_to_eat
+    - arg4 = time_to_sleep
+    - arg5 = (optional) number_of_times_each_philosopher_must_eat (times in ms)
 
 case examples : 
 ```./philo 2 800 200 200``` no one dies
